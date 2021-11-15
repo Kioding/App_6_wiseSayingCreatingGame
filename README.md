@@ -16,7 +16,7 @@
    - @IBAction
 - 코드
    - 랜덤숫자
-      - `arc4random_uniform(6)`
+      - `arc4random_uniform(number)`
    - Assets의 이미지 활용
       - `self.imageView.image = UIImage(named: "\(wiseSayings[randomNumber].imageName)")` 
    
