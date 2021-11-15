@@ -10,4 +10,5 @@ import Foundation
 struct WiseSaying {
     let contents: String
     let name: String
+    let photo: String
 }
