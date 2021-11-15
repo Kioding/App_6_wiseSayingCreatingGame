@@ -56,6 +56,7 @@
                                 <state key="normal" title="명언 생성"/>
                                 <connections>
                                     <action selector="TappedButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YWG-QY-IVi"/>
+                                    <action selector="tappedButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LbJ-1Q-2kt"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -72,6 +73,10 @@
                             <constraint firstItem="2FE-Xt-l5z" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="xxA-gn-Zl7"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="nameLabel" destination="xf2-gf-8W1" id="gBx-L6-r7z"/>
+                        <outlet property="wiseSayingLabel" destination="CcA-3c-lKs" id="7mU-SF-C4O"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
