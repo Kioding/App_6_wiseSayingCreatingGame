@@ -45,4 +45,4 @@
 - [Swift ) 랜덤함수 차이](https://zeddios.tistory.com/214)
 - [Content Hugging, Compression Resistance](https://velog.io/@wonhee010/Content-Hugging-Compression-Resistance)
 - [[iOS / Swift] UILabel에 대해 알아보자!](https://velog.io/@wook4506/iOS-Swift-UILabel%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
-_ [[iOS / Swift] UIButton에 대해 알아보자!](https://velog.io/@wook4506/iOS-Swift-UIButton%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [[iOS / Swift] UIButton에 대해 알아보자!](https://velog.io/@wook4506/iOS-Swift-UIButton%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
